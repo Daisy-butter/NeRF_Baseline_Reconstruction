@@ -46,7 +46,7 @@ We build upon the official **[nerf-pytorch](https://github.com/yenchenlin/nerf-p
 - **`logs/`**  
   Training logs, visualizations, and model outputs:
   - `summaries/`: TensorBoard logs.
-  - `donggua&hotcrush/`: Training logs and rendered videos for a stationery bag object.
+  - `donggua&hotcrush/`: Training logs and rendered videos for selected objects.
   - `test/`: Comparison experiments (e.g., a soda can object).
 
 - **`LLFF-master/`**  

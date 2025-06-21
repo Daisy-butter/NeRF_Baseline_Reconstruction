@@ -5,6 +5,12 @@
 This project explores 3D object reconstruction and novel view synthesis based on **Neural Radiance Fields (NeRF)**, a powerful neural rendering technique that has achieved remarkable success in computer vision. By leveraging a neural network to learn a volumetric scene representation, NeRF enables photorealistic novel view generation from a sparse set of input images.  
 We build upon the official **[nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch)** implementation and apply it to real-world objects captured via handheld smartphone cameras.
 
+## 📦 Dataset Access
+
+The real-world dataset used in this project, along with COLMAP-processed poses and the resulting outputs, can be downloaded via the following link:
+
+🔗 [Baidu Netdisk Download – NeRF Dataset and Results](https://pan.baidu.com/s/1qRsE-CqBLEWnjMlgEzLmSQ?pwd=a3bb) (extraction code: `a3bb`)
+
 ---
 
 ## 📁 Project Structure
